@@ -40,7 +40,7 @@ Modelos para predecir el impacto del dengue:
 <h1>Stack Tecnológico</h1>
 
 - <b>Lenguaje de programación</b>: Python
-- <b>Librerías</b>: Pandas, Scikit-learn, 
+- <b>Librerías</b>: Pandas, Scikit-learn, GeoPandas, NumPy
 - <b>Visualización externa</b>: <a href="https://lookerstudio.google.com/reporting/20bd5209-7075-47df-8d35-70b63a6903ba" target="_blank">Dashboard en Looker Studio</a>
 
 
@@ -49,3 +49,4 @@ Modelos para predecir el impacto del dengue:
 - Un hallazgo es que los casos suben drásticamente en los primeros 5 meses del año, en las estaciones de Verano y Otoño.
 - Las zonas críticas son las comunas 11, 15, 9 y 4.
 - Una propuesta sería implementar un sistema de alerta temprana basado en pronósticos meteorológicos a 15 días y una App de reporte ciudadano de criaderos.
+
